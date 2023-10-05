@@ -1,0 +1,44 @@
+h1{
+    text-align: center;
+}
+
+.container{
+    background-color: rgb(255, 255, 255);
+    padding: 10px 0;
+    
+}
+
+.marker{
+    height: 25px;
+    width: 200px;
+    /* margin-top: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+    margin-left: auto; */
+    margin: 10px auto;
+}
+
+.red{
+    background-color: rgb(255, 0, 0);
+}
+
+.green{
+    background-color: #007f00
+}
+
+.blue{
+    background-color: hsl(240, 100%, 50%)
+}
+
+.teste1{
+    background: linear-gradient(90deg, rgb(255,0,0) 50%, rgb(0,255,0), rgb(0,0,255));
+
+}
+
+.teste2{
+
+}
+
+.teste3{
+
+}
